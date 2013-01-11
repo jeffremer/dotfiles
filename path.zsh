@@ -1,4 +1,4 @@
 # PATH
 
-export PATH="$PATH:~/bin:~/scripts/"
+export PATH="$PATH:~/.binfiles:~/.scripts/:."
 export PATH="$PATH:/opt/local/bin/"
